@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout<<"work by vanshika";
+	cout<<"work by vanshika edited by lav";
 	return 0;
 }
 
